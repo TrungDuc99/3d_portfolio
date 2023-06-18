@@ -27,4 +27,10 @@ const App = () => {
         <div className="relative">
           <Contact />
           <StarsCanvas />
-        </
+        </div>
+      </div>
+    </BrowserRouter>
+  );
+};
+
+export default App;
